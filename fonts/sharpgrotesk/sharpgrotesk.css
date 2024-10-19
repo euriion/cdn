@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Sharp Grotesk 23 KR';
+    src: url('SharpGroteskDBKO-Book23.woff2') format('woff2'), 
+    url('SharpGroteskDBKO-Book23.woff') format('woff');
+
+    /*   font-weight: 400; */
+    font-weight: normal;
+    font-style: normal;
+}
