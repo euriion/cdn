@@ -7,6 +7,10 @@ JSdelivr와 연동하고 있습니다.
 
 ## 웹폰트
 
-감탄로드 폰트
+**감탄로드 폰트**
 
 https://cdn.jsdelivr.net/gh/euriion/cdn/fonts/gamtanroad/gamtanroad.css
+
+```css
+@import url('https://cdn.jsdelivr.net/gh/euriion/cdn/fonts/gamtanroad/gamtanroad.css');
+```
